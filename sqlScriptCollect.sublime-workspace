@@ -1,0 +1,474 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"m",
+				"mbool\tBooleanField (mbool)"
+			],
+			[
+				"form",
+				"formatTest\tfunction"
+			],
+			[
+				"rep",
+				"repeat_str\tfunction"
+			],
+			[
+				"find_element_",
+				"find_element_by_id\tfunction"
+			],
+			[
+				"c",
+				"common\tmodule"
+			],
+			[
+				"sele",
+				"selenium\tmodule"
+			],
+			[
+				"int",
+				"inttobin\tfunction"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pa",
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"rest",
+				"RESTer: HTTP Request"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 282.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/AlVEzhov/Desktop/log_24135342.log",
+		"/C/Users/AlVEzhov/Desktop/log_9683560712_67.txt",
+		"/C/Users/AlVEzhov/Documents/utils/sqlScriptCollect.py",
+		"//bee.vimpelcom.ru/folders/BSSSuiteSelfService/USSS_Releases/24.0.0/Scripts/BSSCM.sql",
+		"//bee.vimpelcom.ru/folders/BSSSuiteSelfService/USSS_Releases/24.0.0/Scripts/BSSRP.sql",
+		"/C/Users/AlVEzhov/Downloads/csmUNapiEOS.stdout.20150117230216.15973",
+		"/C/Users/AlVEzhov/Downloads/csmUNapiEOS.stdout.20150117230216 (1).15973",
+		"/C/Users/AlVEzhov/Desktop/log_24124042.log",
+		"/C/Users/AlVEzhov/Desktop/Поставка 23082017_ скрипты/BSSRP.sql",
+		"/C/Users/AlVEzhov/Desktop/Поставка 23082017_ скрипты/BSSCM.sql",
+		"/C/Users/AlVEzhov/Desktop/16611/Чеклист API_TYPE = 67.txt",
+		"/C/Users/AlVEzhov/Desktop/16611/67 API_TYPE.txt",
+		"/C/Users/AlVEzhov/Desktop/16611/76 API_TYPE.txt",
+		"/C/Users/AlVEzhov/Desktop/16611/BSSS-16934.txt",
+		"/C/Users/AlVEzhov/Desktop/request.xml",
+		"/C/Users/AlVEzhov/Desktop/16611/Вызовы биномеров.txt",
+		"/C/Users/AlVEzhov/Desktop/16611/Шаблоны.txt",
+		"/C/Users/AlVEzhov/Desktop/16611/77 API_TYPE.txt",
+		"/C/Users/AlVEzhov/Desktop/16611/96 API_TYPE.txt",
+		"/C/Users/AlVEzhov/Desktop/log_17182002.log",
+		"/C/Users/AlVEzhov/Desktop/Script_BSSS-16611_BSSRP.sql",
+		"/C/Users/AlVEzhov/Desktop/log_17133948.log",
+		"/C/Program Files (x86)/Jenkins/jobs/NEW TEST 1/NEW TEST 1/config.xml",
+		"/C/Users/AlVEzhov/Desktop/log_16120941.log",
+		"/C/Users/AlVEzhov/Desktop/log_15114946.log",
+		"/C/Users/AlVEzhov/Desktop/ДП2/RATED_FEATURE_TP2_2.sql",
+		"/C/Users/AlVEzhov/Desktop/ДП2/FEATURE_TP2_2.sql",
+		"/C/Users/AlVEzhov/Desktop/log_14113241.log",
+		"/C/Users/AlVEzhov/Downloads/TP2_2 ER017.txt",
+		"/C/Users/AlVEzhov/Desktop/API_TYPE=96.txt",
+		"/C/Users/AlVEzhov/Desktop/log_07181508.log",
+		"/C/Users/AlVEzhov/Desktop/log_07183433.log",
+		"/C/Users/AlVEzhov/Desktop/full_log_76.txt",
+		"/C/Users/AlVEzhov/Desktop/log_04170032.log",
+		"/C/Users/AlVEzhov/Desktop/log_04171546.log",
+		"/C/Users/AlVEzhov/AppData/Roaming/Skype/My Skype Received Files/log (2).txt",
+		"/C/Users/AlVEzhov/Desktop/log_03161933.log",
+		"/C/Users/AlVEzhov/AppData/Roaming/Skype/My Skype Received Files/log.log",
+		"/C/Users/AlVEzhov/Desktop/log_02171303.log",
+		"/C/Users/AlVEzhov/Desktop/CSME2E_CSUE2U_stdout.20170726_183122.log",
+		"/C/Users/AlVEzhov/Desktop/log_31161129.log",
+		"/C/Users/AlVEzhov/Desktop/log_31142712.log",
+		"/C/Users/AlVEzhov/Desktop/log_31125000.log",
+		"/C/Users/AlVEzhov/Desktop/log_28152244.log",
+		"/C/Users/AlVEzhov/Desktop/log_28152544.log",
+		"/C/Users/AlVEzhov/Desktop/log_28145946.log",
+		"/C/Users/AlVEzhov/Desktop/log_28132416.log",
+		"/C/Users/AlVEzhov/Desktop/log_28133139.log",
+		"/C/Users/AlVEzhov/Downloads/CYCLE_CONTROL.sql",
+		"/C/Google drive/Работа/Задание на JAVA-джуна.txt",
+		"/C/Users/AlVEzhov/Desktop/log_27142823.log",
+		"/C/Users/AlVEzhov/Desktop/log_27132342.log",
+		"/C/Users/AlVEzhov/Desktop/log_27135705.log",
+		"/C/Users/AlVEzhov/Desktop/log_26183906.log",
+		"/C/Users/AlVEzhov/Desktop/log_26170951.log",
+		"/C/Users/AlVEzhov/Desktop/log_26142408.log",
+		"/C/Users/AlVEzhov/Desktop/log_26171523.log",
+		"/C/Users/AlVEzhov/Desktop/log_21163513.log",
+		"/C/Users/AlVEzhov/Desktop/log_21175721.log",
+		"/C/Users/AlVEzhov/Desktop/2DP_cases.txt",
+		"/C/Users/AlVEzhov/Desktop/log_19151719.log",
+		"/C/Users/AlVEzhov/Desktop/log_19151518.log",
+		"/C/Users/AlVEzhov/Desktop/log_19145102.log",
+		"/C/Users/AlVEzhov/Desktop/log_19145204.log",
+		"/C/Users/AlVEzhov/Desktop/webfirst/eveprod/apps.py",
+		"/C/Users/AlVEzhov/Desktop/webfirst/eveprod/models.py",
+		"/C/Users/AlVEzhov/Desktop/log_19142636.log",
+		"/C/Users/AlVEzhov/Desktop/log_19123701.log",
+		"/C/Users/AlVEzhov/Desktop/log_19112921.log",
+		"/C/Users/AlVEzhov/Desktop/log_19114056.log",
+		"/C/Users/AlVEzhov/Desktop/log_19114754.log",
+		"/C/Users/AlVEzhov/Desktop/test.log",
+		"/C/Users/AlVEzhov/Desktop/log_18144753.log",
+		"/C/Users/AlVEzhov/Desktop/log_18172621.log",
+		"/C/Users/AlVEzhov/Desktop/log_18134002.log",
+		"/C/Users/AlVEzhov/Desktop/log_18134757.log",
+		"/C/Users/AlVEzhov/Desktop/log_17160409.log",
+		"/C/Users/AlVEzhov/Desktop/log_17170244.log",
+		"/C/Users/AlVEzhov/Desktop/log_17125856.log",
+		"/C/Users/AlVEzhov/Desktop/log_17152006.log",
+		"/C/Users/AlVEzhov/Desktop/log_17123341.log",
+		"/C/Users/AlVEzhov/Desktop/log_17125258.log",
+		"/C/Google drive/Работа/backup/CYCLE_CONTROL 539.txt",
+		"/C/Users/AlVEzhov/Desktop/пробуем создать бан через CSM.txt",
+		"/C/Users/AlVEzhov/AppData/Roaming/Skype/My Skype Received Files/CYCLE_CONTROL.sql",
+		"/C/Users/AlVEzhov/Desktop/log_12193322.log",
+		"/C/Users/AlVEzhov/Desktop/oracle_Reg.reg",
+		"/C/Users/AlVEzhov/AppData/Roaming/Skype/My Skype Received Files/vmp.ini",
+		"/C/Users/AlVEzhov/Desktop/BSSS-16595/ussID_НЕ_заполнен_crmID_есть_найден.txt",
+		"/C/Users/AlVEzhov/Desktop/BSSS-16595/ussID заполнен_найден.txt",
+		"/C/Users/AlVEzhov/Desktop/BSSS-16595/ussID заполнен_НЕнайден.txt",
+		"/C/Users/AlVEzhov/Desktop/BSSS-16595/ussID_НЕ_заполнен_crmID_есть_НЕ_найден.txt",
+		"/C/Users/AlVEzhov/Desktop/BSSS-16595/ussID_НЕ_заполнен_crmID_УКАЗАН.txt",
+		"/C/Users/AlVEzhov/Desktop/Script_BSSS-16587_BSSCM.sql",
+		"/C/Users/AlVEzhov/Desktop/BSSS-16595/ussID заполнен.txt",
+		"/C/Users/AlVEzhov/Desktop/csmRNApi.stdout.20170704170200.13851",
+		"/C/Users/AlVEzhov/Desktop/log_06153714.log",
+		"/C/Users/AlVEzhov/Desktop/log_06123211.log",
+		"/C/Users/AlVEzhov/Desktop/log_04200749.log",
+		"/C/Users/AlVEzhov/Desktop/23.1.0.0/Scripts/Script_BSSS-16598_BSSCM.sql",
+		"/C/Users/AlVEzhov/Desktop/csmUNapiCTN.stdout.20170704170205.13866",
+		"/C/Users/AlVEzhov/Desktop/log_04190220.log",
+		"/C/Users/AlVEzhov/Desktop/csmUNapiBan.stdout.20170704170203.13856",
+		"/C/Users/AlVEzhov/Desktop/ULOG.070417",
+		"/C/USSTestHelper_1.0_4/USSTestHelper_1.0_4/usstesthelper.config",
+		"/C/USSTestHelper_1.0_4_BELL/USSTestHelper_1.0_4/usstesthelper.config",
+		"/C/Users/AlVEzhov/Desktop/csmUNapiAuth.stdout.20170704170157.13629",
+		"/C/Users/AlVEzhov/Desktop/16426/Script_BSSS-16426_BSSREFS.sql",
+		"/C/Users/AlVEzhov/Desktop/16426/Script_BSSS-16426_BSSCM-pkg.sql",
+		"/C/Users/AlVEzhov/Desktop/16426/Script_BSSS-16426_BSSCM.sql",
+		"/C/Users/AlVEzhov/Downloads/010-inac-house_segment_tur.sql",
+		"/C/pyTest/EVELinkTest.py",
+		"/C/Users/AlVEzhov/AppData/Roaming/Skype/My Skype Received Files/bamboo_wo_version - Copy.bat",
+		"/E/fmw/arts/bamboo.bat",
+		"/C/Users/AlVEzhov/Desktop/log_29125819.log",
+		"/C/Users/AlVEzhov/Desktop/BSK-924.txt",
+		"/C/Users/AlVEzhov/Desktop/query.txt",
+		"/C/Users/AlVEzhov/Desktop/log_28223554.log",
+		"/C/Users/AlVEzhov/Desktop/log_28165856.log",
+		"/C/Users/AlVEzhov/Desktop/log_28103945.log",
+		"/C/Users/AlVEzhov/Desktop/log_28114329.log",
+		"/C/Users/AlVEzhov/AppData/Roaming/Skype/My Skype Received Files/лог_1.txt",
+		"/C/Users/AlVEzhov/AppData/Roaming/Skype/My Skype Received Files/лог_2.txt",
+		"/C/Users/AlVEzhov/Desktop/log_27130813.log",
+		"/C/Users/AlVEzhov/Desktop/log_27152723.log",
+		"/C/pyTest/sololearn.py",
+		"/C/Users/AlVEzhov/Desktop/log_27122043.log",
+		"/C/Users/AlVEzhov/Desktop/log_27113621.log"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"TUX",
+			"ERR",
+			"ER0",
+			"Server",
+			"ERROR",
+			"28",
+			"PRE_CLASSPATH",
+			"serviceCo",
+			"ERROR",
+			"ERR",
+			"ERROR",
+			"DCM.TP2.USS.url",
+			"9683516947",
+			"E r r o",
+			"E r r o r",
+			"error",
+			"ERROR",
+			"sumOutsideRoaming1",
+			"responseCode",
+			"}",
+			"ER",
+			"getTP",
+			"MY_TABLE",
+			"USER_NAME",
+			"USER_CHANGED_BY_OWNER",
+			"ERROR",
+			"Status",
+			"status",
+			"sm",
+			"sms",
+			"45",
+			"sms",
+			"ER000",
+			"uss",
+			"Comverse",
+			"comverse",
+			"');",
+			"INSERT INTO BSSCM1.ECR6_USERS (NAME) VALUES ('",
+			"\t",
+			"#",
+			"P",
+			"'P",
+			"P",
+			"ERROR",
+			"use",
+			"usePro",
+			"ERROR",
+			"Can",
+			"ca",
+			"can\\t",
+			"ERROR",
+			"INSERT INTO MY_TABLE(ENTITY_ID) VALUES (",
+			"WL_HOME",
+			"ERROR",
+			"addRemoveServiceInfo",
+			"addRemoveServiceInfo\\",
+			"addRemoveServiceInfo",
+			"ERROR",
+			"9683553725",
+			"loginAndPassword/creation",
+			"ERROR",
+			"ERR",
+			"'\n",
+			"ERROR",
+			"rc",
+			"offer",
+			"rc",
+			"period",
+			"PSEV",
+			"ERROR",
+			"MY_TABLE",
+			".\n",
+			"VMS",
+			"ERROR",
+			"ECR6_",
+			"ECR6_SSO",
+			"ECR6_SSO_LINK_INVITATIONS",
+			"('",
+			"ER0",
+			"ER054",
+			"ER",
+			"ER0",
+			"ER",
+			"ERROR",
+			"ERR",
+			"ER",
+			"ERROR",
+			"ERR",
+			"ER028",
+			"ERROR",
+			"PSEV_200",
+			"MY_TABLE",
+			"name",
+			"TEST",
+			"DEBUG_PORT",
+			"requestId",
+			"2172498",
+			"VMPREF137",
+			"FSL_ATB2",
+			"expirationDate",
+			"requestStatus",
+			"REqueststatus",
+			"INSERT",
+			"ERROR",
+			"VALUES",
+			"alter",
+			"alter create ",
+			")",
+			"INSERT",
+			"insert",
+			"fttb",
+			"FTTB",
+			"MQ",
+			"Mq",
+			"MQ",
+			"Error",
+			"error",
+			"ERROR",
+			"MQ-",
+			"MQ",
+			"INSERT INTO BSSCM1.CONFIG (NAME, DESCRIPTION, VALUE) VALUES (",
+			"getSharedSocServiceName",
+			"ERROR",
+			"-Drp.allowApiType",
+			"mq",
+			"send",
+			"spss",
+			"camp"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"%BRANCH%",
+			"BSSS-DEV3078-2",
+			"BSSS-DEV3078",
+			"3093",
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sqlScriptCollect.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 237.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
