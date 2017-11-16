@@ -1,0 +1,1 @@
+call setUssLocalizationKey('api.promisedPayment.CM.error.151', 'К сожалению, услуга "Доверительный платеж" на текущий момент Вам недоступна');
